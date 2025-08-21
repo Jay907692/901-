@@ -11,7 +11,7 @@ local Credit = Instance.new("TextLabel")
 local Plr = Players.LocalPlayer
 local Clipon = false
 
-Noclip.Name = "T穿墙"
+Noclip.Name = "狗剩穿墙"
 Noclip.Parent = game.CoreGui
 
 BG.Name = "BG"
